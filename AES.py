@@ -1,5 +1,5 @@
-#pip install base64
-#pip install pycrypto
+#pip3 install base64
+#pip3 install pycrypto
 import os
 import base64
 from Crypto.Cipher import AES
